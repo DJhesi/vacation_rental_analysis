@@ -126,7 +126,6 @@ See the full analysis in the [Jupyter Notebook](./Final_notebook.ipynb) or revie
 ## Repository Structure
 
 ```
-├── data
 ├── images
 ├── README.md
 ├── final_presentation.pdf
