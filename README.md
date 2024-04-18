@@ -1,4 +1,4 @@
-![vacation](./images/vacation.jpg)
+![vacation](./images/vacation.jpeg)
 
 # Peak Performance: Predictive Modeling for Vacation Rental Revenue
 
